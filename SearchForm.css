@@ -1,0 +1,9 @@
+.search{
+    display:flex;
+    flex-direction: column;
+}
+
+.radios{
+    display: flex;
+    justify-content: center;
+}
